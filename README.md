@@ -4,16 +4,9 @@ NodeJS Microservice Architecture Example with realtime project
 
 ## Monolithic version link:
 
-[Grocery Online Shopping App Monolithic](https://github.com/codergogoi/Grocery_Online_Shopping_App)
+[Grocery Online Shopping App Monolithic](https://github.com/louisepaul75/Grocery_Online_Shopping_App)
 
 ============================
-</br>
-What you can learn from this repository?
-</br>
-https://youtu.be/EXDkgjU8DDU
-</br>
-</br>
-</br>
 
 This is a practical source code of the NodeJS Microservice tutorial serise. Where we have split up a monolithic application into Microservices Architecture. The main goal of this repository is to provide an overview how the microservices architecture is working with nodejs and what is the complexity we need to resolve to achieve the outcome from an Monolithic architecture. 
 
@@ -25,8 +18,8 @@ This repository is published for educational purpose only. If the concept of the
 
 ## Frontend Repository:
 
-https://github.com/codergogoi/microservice-frontend
+https://github.com/louisepaul75/microservice-frontend
 
 ## POSTMAN Collection
 </br>
-https://github.com/codergogoi/Grocery_Online_Shopping_App/blob/master/online_shopping_monolithic/Microservices%20Tutorial.postman_collection.json
+https://github.com/louisepaul/Grocery_Online_Shopping_App/blob/master/online_shopping_monolithic/Microservices%20Tutorial.postman_collection.json
