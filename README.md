@@ -22,4 +22,4 @@ https://github.com/louisepaul75/microservice-frontend
 
 ## POSTMAN Collection
 </br>
-https://github.com/louisepaul/Grocery_Online_Shopping_App/blob/master/online_shopping_monolithic/Microservices%20Tutorial.postman_collection.json
+https://github.com/louisepaul75/Grocery_Online_Shopping_App/blob/master/online_shopping_monolithic/Microservices%20Tutorial.postman_collection.json
